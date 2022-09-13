@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/kannabotz'
-global.sgh = 'https://github.com/XyzenzKannaV1'
-global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea' //group whatsapp
+global.sig = 'https://instagram.com/MikasaBotzz'
+global.sgh = 'https://github.com/MikasaBotzz'
+global.sgc = 'https://chat.whatsapp.com/IfeHcLelO2T9hzBnFjHMb8' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCOAloj1gW4OVGMtVDnNaq5w' // my youtube channel
+global.snh = 'https://youtube.com/channel/MikasaBotzz' // my youtube channel
 /*============== PAYMENT ==============*/
 global.pdana = '083866366437' //dana
 global.povo = '088980870067' //ovo
@@ -47,8 +47,8 @@ global.psaweria = 'https://saweria.com/kannabotz'
 /*============== NOMOR ==============*/
 global.nomorbot = '6288980870067'
 global.nomorown = '6283866366437'
-global.namebot = 'Siesta Botz'
-global.nameown = 'Kanna Chan'
+global.namebot = 'MikasaBotzz'
+global.nameown = 'DennSoftex'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -57,10 +57,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437', 'Kanna Chan', true],
-  ['6283866366437', 'Kanna Cha', true],
-  ['6283112831554', 'Siesta Bot', true],
-  ['6283866366437', 'Kanna Chan', true] //Ganti jd nomormu sama Namamu
+  ['6281991134619', '', true],
+  ['6281991134619', 'DennSoftex', true],
+  ['6281991134619', 'DennSoftex', true],
+  ['6281991134619', 'DennSoftex', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,13 +108,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Siesta Botz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Siesta Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Siesta Botz '
+global.wm = '                「 MikasaBotzz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MikasaBotzz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ MikasaBotzz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Kanna Chan`
-global.author = '                「 Siesta Botz  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By DenzzSoftex`
+global.author = '                「 MikasaBotzz  あ」'
 
 
 /*============== LOGO ==============*/

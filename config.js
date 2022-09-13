@@ -47,7 +47,7 @@ global.psaweria = 'https://saweria.com/kannabotz'
 /*============== NOMOR ==============*/
 global.nomorbot = '6288980870067'
 global.nomorown = '6283866366437'
-global.namebot = 'Sagiri Botz'
+global.namebot = 'Siesta Botz'
 global.nameown = 'Kanna Chan'
 
 /*============== APIKEY SIMPEL ==============*/
@@ -108,13 +108,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sagiri Botz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sagiri Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Sagiri Botz '
+global.wm = '                「 Siesta Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Siesta Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Siesta Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Kanna Chan`
-global.author = '                「 Sagiri Botz  あ」'
+global.author = '                「 Siesta Botz  あ」'
 
 
 /*============== LOGO ==============*/
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Sagiri Botz'
+global.stickpack = 'Siesta Botz'
 global.stickauth = `By ©Kanna Chan`
 
 global.multiplier = 38 // The higher, The harder levelup
